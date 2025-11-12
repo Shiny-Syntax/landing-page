@@ -152,7 +152,7 @@
         .ai-visual {
             width: 400px;
             height: 400px;
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            /*background: linear-gradient(135deg, var(--primary), var(--secondary));*/
             border-radius: 50%;
             position: relative;
             display: flex;
